@@ -1,0 +1,27 @@
+body{
+    background: whitesmoke;
+}
+.color{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    background: dimgray;
+}
+
+.red{
+    background: #BB2626;
+}
+.white{
+    background: #FFFFF2;
+}
+.blue{
+    background: #6F9FF0;
+}
+#lumpy-img{
+    width: 600px;
+}
+.button{
+    width: 100px;
+    height: 50px;
+    
+}
